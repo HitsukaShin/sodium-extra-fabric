@@ -15,10 +15,10 @@ loom {
 }
 
 repositories {
-    maven { url = "https://jitpack.io" }
+    maven { url = "https://github.com/HitsukaShin/sodium-fabric.git" }
     maven { 
         name = "Modrinth"
-        url = "https://api.modrinth.com/maven"
+        url = "https://github.com/HitsukaShin/sodium-fabric.git"
         content {
             includeGroup "maven.modrinth"
         }
